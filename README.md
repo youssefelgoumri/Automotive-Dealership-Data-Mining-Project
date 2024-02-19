@@ -24,5 +24,9 @@ This repository contains the code and documentation for an automotive dealership
 - Jupyter Notebook
 - NumPy, pandas, scikit-learn, matplotlib, seaborn (install using `pip install -r requirements.txt`)
 
+## Interface 
+![Screenshot 2024-02-05 003744](https://github.com/youssefelgoumri/Automotive-Dealership-Data-Mining-Project/assets/94170257/f8cea582-07b6-4134-a1ce-d5648e2a0ecc)
+
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
